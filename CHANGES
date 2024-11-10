@@ -1,0 +1,57 @@
+Fakeimg Changelog
+===============
+
+Version 0.10
+____________
+- Upgrading to latest Flask / Pillow
+- Upgrading to Python 3.8
+
+Version 0.9
+-----------
+- Adding support for japanese text with `noto` font
+- Adding support for chinese text with `noto` font
+- Adding support for korean text with `noto` font
+
+Version 0.8
+-----------
+- Removing Sentry
+- Adding Docker support
+
+Version 0.7
+-----------
+- Removing Python 2 support to clean code
+- Upgrading to Python 3.6
+- Update dependencies
+
+Version 0.6
+-----------
+- Transparency added
+
+Version 0.5
+-----------
+- Python 3.3 support
+- Pypy 2.1 support
+
+Version 0.4
+-----------
+- Font size settings
+- Adding a changelog
+
+Version 0.3.1
+-------------
+Bugfix release: utf-8 encoding issues on some parameters.
+
+Version 0.3
+-----------
+Retina display mode
+
+Version 0.2
+-----------
+New fonts: Bebas, Museo
+
+Version 0.1.1
+Various bug fixes
+
+Version 0.1
+-----------
+First release.
